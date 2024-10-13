@@ -12,6 +12,8 @@
 // The element in position 5 is: undefined
 // The element in position 5 is: undefined
 
+// The Correct code
+
 const array = [12, 10, 22, 5, 25];
 for(let i = 0; i < array.length; i++){
   setTimeout(function(){
