@@ -1,0 +1,22 @@
+{
+    "name": "zero-trust-widget",
+    "version": "1.0.0",
+    "description": "A widget for Zero Trust",
+    "main": "index.js",
+    "scripts": {
+      "serve": "vue-cli-service serve",
+      "build": "vue-cli-service build",
+      "lint": "vue-cli-service lint"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+      "vue": "^3.2.0",
+      "vuetify": "^3.0.0"
+    },
+    "devDependencies": {
+      "@vue/cli-service": "^5.0.0",
+      "@vue/compiler-sfc": "^3.2.0"
+    }
+  }
+  
