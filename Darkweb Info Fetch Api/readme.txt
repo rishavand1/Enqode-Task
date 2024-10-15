@@ -10,26 +10,25 @@ python -m venv venv
 b. Activate the Virtual Environment
 For Windows:
 
-
 venv\Scripts\activate
-For macOS/Linux:
 
+For macOS/Linux:
 
 source venv/bin/activate
 
 c. Install Flask and Requests
 Now, install Flask and Requests using pip:
 
-
 pip install Flask requests
+
 2. Save Your Flask Code
 Create a Python file, e.g., app.py, in VS Code and paste your Flask code into it. Be sure to replace 'YOUR_API_KEY' with your actual API key.
 
 3. Run the Flask API
+
 Once you've saved your code in api.py, run it in the terminal with:
-
-
 python app.py
+
 By default, Flask will run on http://127.0.0.1:5000/. If everything is set up correctly, you should see something like:
 
 
